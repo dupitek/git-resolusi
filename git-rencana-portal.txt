@@ -3,7 +3,11 @@ Rencana Portal
 - Pindah ke Laravel
   * Membuat tampilan
   * Membuat Kodingan
+  * Membuat fitur seo
+    ^ Fitur yang sama dengan yoast
 - Kolaborasi dengan programmer
 - Kolaborasi dengan beberapa Penulis
+  ^ Laravel
 - Memperbaiki Struktur
 - Menjalankan SEO
+- Python

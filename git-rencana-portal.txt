@@ -3,6 +3,7 @@ Rencana Portal
 - Pindah ke Laravel
   * Membuat tampilan
   * Membuat Kodingan
+- Kolaborasi dengan programmer
 - Kolaborasi dengan beberapa Penulis
 - Memperbaiki Struktur
 - Menjalankan SEO

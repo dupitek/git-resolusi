@@ -3,5 +3,5 @@ GIT RESOLUSI
 - Membuat Aplikasi Desa Gratis
 - Membuat aplikasi perkantoran
 - Membuat Tim SEO
-- Membuat Toko Online
 - Kolaborasi dengan Expert
+- Mengembangkan portal berita

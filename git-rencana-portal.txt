@@ -1,0 +1,6 @@
+Rencana Portal
+
+- Pindah ke Laravel
+- Kolaborasi dengan beberapa Penulis
+- Memperbaiki Struktur
+- Menjalankan SEO

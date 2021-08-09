@@ -4,6 +4,7 @@ Rencana Portal
   * Membuat tampilan
   * Membuat Kodingan
   * Membuat fitur seo
+    ^ Fitur yang sama dengan yoast
 - Kolaborasi dengan programmer
 - Kolaborasi dengan beberapa Penulis
   ^ Laravel
